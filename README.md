@@ -1,3 +1,8 @@
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![TLS v1.3](https://img.shields.io/badge/Security-TLS%20v1.3-green?style=for-the-badge)
+![TCP](https://img.shields.io/badge/Protocol-TCP-blue?style=for-the-badge)
+
 # Network Traffic Analysis Lab
 ### This project demonstrates a comprehensive workflow for capturing and analyzing network traffic within a Linux environment using wireshark. It covers secure installation practices, protocol-specific analysis for HTTP and HTTPS, and the application of advanced display filters to isolate specific network conversations. By examining TLS handshakes and unencrypted traffic, this lab highlights the practical differences between secure and insecure communication channels
 ## Task 1
